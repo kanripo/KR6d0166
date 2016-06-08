@@ -1,25 +1,28 @@
-#+TITLE: 四教義 / T
-#+DATE: 2015-11-26 14:01:07.065145
+#+TITLE: 四教義 
+#+DATE: 2016-06-08 13:49:08.553737
+
 * 版本
  |     CBETA|【電子佛典集成】|
  |         T|【大】     |
  |     T@JIA|【大→甲】   |
+ |      T@YI|【大→乙】   |
+ | T@UNKNOWN|【大→unknown】|
  | T@JIAXING|【大→嘉興】  |
  |    T@LONG|【大→龍】   |
- | T@UNKNOWN|【大→unknown】|
- |      T@YI|【大→乙】   |
 
 * 目次
+
 * 卷
-** [[file:KR6d0166_001.txt][四教義 1]]
-** [[file:KR6d0166_002.txt][四教義 2]]
-** [[file:KR6d0166_003.txt][四教義 3]]
-** [[file:KR6d0166_004.txt][四教義 4]]
-** [[file:KR6d0166_005.txt][四教義 5]]
-** [[file:KR6d0166_006.txt][四教義 6]]
-** [[file:KR6d0166_007.txt][四教義 7]]
-** [[file:KR6d0166_008.txt][四教義 8]]
-** [[file:KR6d0166_009.txt][四教義 9]]
-** [[file:KR6d0166_010.txt][四教義 10]]
-** [[file:KR6d0166_011.txt][四教義 11]]
-** [[file:KR6d0166_012.txt][四教義 12]]
+[[file:KR6d0166_001.txt][四教義 1]]
+[[file:KR6d0166_002.txt][四教義 2]]
+[[file:KR6d0166_003.txt][四教義 3]]
+[[file:KR6d0166_004.txt][四教義 4]]
+[[file:KR6d0166_005.txt][四教義 5]]
+[[file:KR6d0166_006.txt][四教義 6]]
+[[file:KR6d0166_007.txt][四教義 7]]
+[[file:KR6d0166_008.txt][四教義 8]]
+[[file:KR6d0166_009.txt][四教義 9]]
+[[file:KR6d0166_010.txt][四教義 10]]
+[[file:KR6d0166_011.txt][四教義 11]]
+[[file:KR6d0166_012.txt][四教義 12]]
+
