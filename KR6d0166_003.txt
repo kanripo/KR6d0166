@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:12.819993
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:49
 #+TITLE: 四教義
 #+PROPERTY: CBETA_ID T46n1929
 #+PROPERTY: ID KR6d0166
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1929
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6d0166_T_003-0729a> ¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
@@ -176,7 +176,7 @@
 耶識是如來藏。即是用別教有門。入道三論¶
 人云。汝是不見真空亦是唼水義。三論師¶
 明諸法畢竟無所有。此是別教空門。地論師¶
-云。汝是外人冥初生覺義。亦是黃蜂黃[虫*巢]¶
+云。汝是外人冥初生覺義。亦是黃蜂黃𧑀¶
 義。執諍不穆何可融會也。今謂此是不得別¶
 教四門之意。不知四悉檀。說此有空兩門義¶
 也。四明悉檀起圓教四門者。不生不生不¶

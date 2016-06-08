@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:13.008285
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:49
 #+TITLE: 四教義
 #+PROPERTY: CBETA_ID T46n1929
 #+PROPERTY: ID KR6d0166
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1929
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6d0166_T_011-0760a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
@@ -117,7 +117,7 @@
 深之名耳。故楞伽經云。初地即二地。二地¶
 即三地。寂滅真如有何次位也。又有師云。
 <pb:KR6d0166_T_011-0761b>¶
-圓教初頓頓。至十住即是十地。而說有十行¶
+圓教初頓＋（悟）【乙】頓頓。至十住即是十地。而說有十行¶
 十迴向十地者。此是重說意謂此諸解釋悉¶
 是偏取。平等法界。尚不論悟與不悟。孰論¶
 淺之與深。不悟而論悟者。不淺不深論淺深¶
