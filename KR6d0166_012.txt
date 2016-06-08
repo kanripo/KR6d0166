@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:12.447780
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:49
 #+TITLE: 四教義
 #+PROPERTY: CBETA_ID T46n1929
 #+PROPERTY: ID KR6d0166
